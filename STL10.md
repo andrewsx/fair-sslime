@@ -27,6 +27,5 @@ python fair-sslime/tools/train.py --config_file fair-sslime/extra_scripts/eval_v
 ```
 
 ## Trained models and training logs
-```
+
 Our trained models (unsupervised pretraining and supervised finetuning) and the training logs are available at this [link](https://drive.google.com/drive/folders/1QYv_9J8Oc2EUsQYjuCHgnxldAccKI0go?usp=sharing)
-```
