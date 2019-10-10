@@ -18,7 +18,9 @@ Currently, the toolkit supports the Rotation [1] Pretext task and evaluation of 
 Please find installation instructions in [`INSTALL.md`](INSTALL.md).
 
 ## Getting Started
-After installation, please see [`ImageNet-1K`](GETTING_STARTED.md), [`STL10`](STL10.md) for how to run various ssl tasks.
+See [`STL10.md`](STL10.md) for how to setup and run on stl 10
+
+After installation, please see [`GETTING_STARTED.md`](GETTING_STARTED.md) for how to run various ssl tasks.
 
 ## License
 
