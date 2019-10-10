@@ -18,6 +18,7 @@ Currently, the toolkit supports the Rotation [1] Pretext task and evaluation of 
 Please find installation instructions in [`INSTALL.md`](INSTALL.md).
 
 ## Getting Started
+[`STL10.md`](STL10.md)
 
 After installation, please see [`GETTING_STARTED.md`](GETTING_STARTED.md) for how to run various ssl tasks.
 
