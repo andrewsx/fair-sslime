@@ -14,13 +14,13 @@ python fair-sslime/extra_scripts/create_stl10_data_files.py
 
 ## Training without using unsupervised data
 ```
-# You need to edit the data paths in 'extra_scripts/no_unsupervised.yaml' file
-python fair-sslime/tools/train.py --config_file extra_scripts/no_unsupervised.yaml
+# You need to edit the data paths in 'fair-sslime/extra_scripts/no_unsupervised.yaml' file
+python fair-sslime/tools/train.py --config_file fair-sslime/extra_scripts/no_unsupervised.yaml
 ```
 
 ## Training with unsupervised data
 ```
-# You need to edit the data and label paths in 'extra_scripts/unsupervised_vgg_a_rotation_stl_10.yaml'
+# You need to edit the data and label paths in 'fair-sslime/extra_scripts/unsupervised_vgg_a_rotation_stl_10.yaml'
 python fair-sslime/tools/train.py --config_file fair-sslime/extra_scripts/unsupervised_vgg_a_rotation_stl_10.yaml
 # You need to edit the data, label and checkpoint model paths in 'extra_scripts/eval_vgg_a_rotation_stl_10.yaml'
 python fair-sslime/tools/train.py --config_file fair-sslime/extra_scripts/eval_vgg_a_rotation_stl_10.yaml
